@@ -11,7 +11,8 @@ a{
 }
 
 ul{
-    padding: 2px 2px 2px 18px;
+    padding: 2px;
+    margin: 2px 1px 1px 16px;
 }
 
 html{
@@ -21,7 +22,6 @@ html{
 
 body{
     background-color: #1C345E;
-    padding: 6px;
 }
 
 .topbar{
